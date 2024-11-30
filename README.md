@@ -181,4 +181,6 @@ Fungsi ini digunakan untuk membuat elemen struktural yang akan digunakan dalam o
 hand_mask = cv2.erode(hand_mask, kernel, iterations=2)
 Fungsi cv2.erode digunakan untuk melakukan operasi erosi pada gambar atau masker biner. Operasi erosi akan mengurangi ukuran area yang berwarna putih dalam gambar biner, yang berarti area yang terdeteksi akan lebih kecil. Ini sering digunakan untuk menghilangkan noise atau memperbaiki bentuk objek.
 
+<img width="946" alt="image" src="https://github.com/user-attachments/assets/17b968fe-d775-4caa-b8f3-82e62e784ca1">
+
 
